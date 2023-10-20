@@ -44,7 +44,8 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
-public class fragment_diet_chart extends Fragment {
+public class fragment_diet_chart extends Fragment
+{
     GaugeSeekBar progressBar,progressBarProtein,progressBarCarbs,progressBarFats;
 
     ImageView back,gaugeSeekMiddleIcon;
