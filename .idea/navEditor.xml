@@ -1971,6 +1971,11 @@
                         </option>
                         <option name="myPositions">
                           <map>
+                            <entry key="action_activitySecondFragment_to_activityTracker2">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
                             <entry key="action_activitySecondFragment_to_running_frag1">
                               <value>
                                 <LayoutPositions />
@@ -2007,6 +2012,11 @@
                                 <LayoutPositions />
                               </value>
                             </entry>
+                            <entry key="action_activityTracker2_to_dashBoardFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
                           </map>
                         </option>
                       </LayoutPositions>
@@ -2024,6 +2034,11 @@
                         <option name="myPositions">
                           <map>
                             <entry key="action_activityfourthfragment_self">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                            <entry key="action_activityfourthfragment_to_activityTracker2">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -2049,6 +2064,11 @@
                         </option>
                         <option name="myPositions">
                           <map>
+                            <entry key="action_activitythirdfragment_to_activityTracker2">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
                             <entry key="action_activitythirdfragment_to_cycling_frag2">
                               <value>
                                 <LayoutPositions />
@@ -2106,13 +2126,18 @@
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="1252" />
-                            <option name="y" value="4222" />
+                            <option name="x" value="1976" />
+                            <option name="y" value="3592" />
                           </Point>
                         </option>
                         <option name="myPositions">
                           <map>
                             <entry key="action_calorieAddBreakFastFragment_to_calorieTrackerFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                            <entry key="action_calorieAddBreakFastFragment_to_calorie_meal_info_with_photo2">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -2284,6 +2309,11 @@
                         </option>
                         <option name="myPositions">
                           <map>
+                            <entry key="action_calorieTrackerFragment_to_calorieAddBreakFastFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
                             <entry key="action_calorieTrackerFragment_to_calorieBurntFragment">
                               <value>
                                 <LayoutPositions />
@@ -2335,6 +2365,18 @@
                               </value>
                             </entry>
                           </map>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
+                  <entry key="calorie_meal_info_with_photo2">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="2444" />
+                            <option name="y" value="3156" />
+                          </Point>
                         </option>
                       </LayoutPositions>
                     </value>
@@ -2488,6 +2530,18 @@
                               </value>
                             </entry>
                           </map>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
+                  <entry key="fragmentTodays_BreakFast">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="2448" />
+                            <option name="y" value="3614" />
+                          </Point>
                         </option>
                       </LayoutPositions>
                     </value>
