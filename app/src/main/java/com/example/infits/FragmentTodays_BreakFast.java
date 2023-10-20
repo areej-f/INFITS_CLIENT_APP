@@ -161,6 +161,7 @@ public class FragmentTodays_BreakFast extends Fragment {
                 }
             }
 
+
             private void sendMealDetailsToServer(String mealName, String calorieValue, String carbsValue, String fatValue, String proteinValue, String quantity, String size) {
                 RequestQueue requestQueue = Volley.newRequestQueue(requireContext());
                 StringRequest stringRequest = new StringRequest(Request.Method.POST, url, new Response.Listener<String>() {
