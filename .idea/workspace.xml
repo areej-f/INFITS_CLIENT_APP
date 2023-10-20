@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aac381d-1e75-4f05-95d2-1f36e0826556" name="Changes" comment="Changes to Calorie Tracker to add meals" />
+    <list default="true" id="2aac381d-1e75-4f05-95d2-1f36e0826556" name="Changes" comment="Changes to Calorie Tracker to add meals">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,7 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697790043013</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changes to Calorie Tracker to add meals">
+      <created>1697791985605</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697791985605</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changes to Calorie Tracker to add meals">
+      <created>1697792186796</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697792186796</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
