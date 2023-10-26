@@ -32,6 +32,7 @@ import java.util.Map;
 
 public class activitySecondFragment extends Fragment {
 
+
     GaugeSeekBar progressBar;
     Button run_goal_btn,btn_start;
     TextView textView71, textView72, textView73;
