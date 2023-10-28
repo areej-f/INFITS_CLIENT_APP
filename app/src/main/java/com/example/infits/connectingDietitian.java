@@ -134,6 +134,7 @@ public class connectingDietitian extends AppCompatActivity {
                     } catch (Exception e) {
                         Toast.makeText(connectingDietitian.this,e.toString(),Toast.LENGTH_SHORT).show();
                     }
+
                 },error->{
             progressBar.setVisibility(View.INVISIBLE);
             Toast.makeText(connectingDietitian.this,error.toString(),Toast.LENGTH_SHORT).show();
