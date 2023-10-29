@@ -55,6 +55,7 @@ import java.util.Map;
 import java.util.concurrent.TimeUnit;
 public class DashBoardFragment extends Fragment {
 
+
     //String urlRefer = String.format("%sverify.php",DataFromDatabase.ipConfig);
     String urlRefer = "https://infits.in/androidApi/verify.php";
 
